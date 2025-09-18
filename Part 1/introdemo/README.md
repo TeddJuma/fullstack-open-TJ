@@ -1,12 +1,42 @@
-# React + Vite
+# Fullstackopen Part 1 - Introduction to React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains exercises and code examples completed for Part 1 of the [Fullstackopen](https://fullstackopen.com/en/part1) course, which introduces key concepts of React and important JavaScript features for modern web development.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Part 1 focuses on:
 
-## Expanding the ESLint configuration
+- Fundamentals of React and component-based architecture
+- JSX syntax and rendering UI components
+- Passing and using props between components
+- Component state and handling events
+- Working with more complex state and debugging React apps
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The exercises cover building UI pieces step-by-step, experimenting with state changes and event handling, and deepening understanding of React's rendering lifecycle.
+
+## Repository Structure
+
+- Individual exercises and components are organized logically for clarity and progression.
+- Code is typically small, focused React function components using hooks where applicable.
+- Each exercise corresponds roughly to chapters and sections from the official Fullstackopen Part 1 materials.
+
+## How to Use
+
+- Clone this repository to your local machine.
+- Install dependencies (such as React) as needed using a package manager.
+- Run the React development server to experiment and test the components.
+- Review the exercise code and comments for learning and reference.
+
+## Additional Resources
+
+- [Fullstackopen Course Part 1](https://fullstackopen.com/en/part1)
+- [React Official Documentation](https://reactjs.org/docs/getting-started.html)
+- [JavaScript ES6+ Features](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## Contact
+
+For questions or suggestions, feel free to reach out via GitHub or your preferred contact method.
+
+---
+
+*This repository is for educational purposes related to the Fullstackopen Part 1 course.*
