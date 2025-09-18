@@ -18,7 +18,7 @@ Feel free to explore the code, follow along with the exercises, or use component
 
 ## Contact
 
-For questions or collaboration, reach out via [GitHub](https://github.com/TeddJuma) or [email](tedd.juma.0@gmail.com).
+For questions or collaboration, reach out via [GitHub](https://github.com/TeddJuma) or [email](mailto:tedd.juma.0@gmail.com).
 
 ---
 
